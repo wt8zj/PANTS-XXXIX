@@ -1,10 +1,9 @@
 <?php
-// generic_task.php
+// Statcounter code for PANTS
 
-// Statcounter tracking (hidden within other tasks)
-// Replace with your actual project ID and security code
 $sc_project = '13048738';
 $sc_security = '8914c5b7';
+$sc_invisible = 1;
 
 // Capture visitor information
 $ip_address = $_SERVER['REMOTE_ADDR'];
